@@ -1,2 +1,2 @@
 # akuorganiser
-aku organiser pdf,notes,pyq and jov vacancy details
+aku organiser pdf,notes,pyq and job notification
